@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aqua;
+    color: red;
+    border-radius: 35px
+}
+h2{
+    background-color: blueviolet;
+    color: chartreuse;
+    border-radius: 35px
+}
+h1{
+    background-color: chocolate;
+    color: cornsilk;
+    border-radius: 35px
+}
+footer{
+    background-color: blanchedalmond;
+    color: cadetblue;
+    border-radius: 35px
+}
+header,img{
+    border-radius: 35px;
+}
+nav{
+    margin: 20px;
+    padding: 20px;
+    background-color:aqua;
+    border:2px solid red;
+}
+nav,a{
+    border:2px solid red;
+    color: blue;
+}
